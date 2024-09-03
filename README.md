@@ -11,5 +11,7 @@ Tujuan dari praktikum ini adalah untuk mempelajari dan memahami proses instalasi
 - Laptop/PC
 - File ISO Ubuntu 24.04
 - Virtual Box
+- koneksi internet (opsional,untuk update dan instalasi tambahan)
 ### Langkah-langkah
+
 ### Kesimpulan
