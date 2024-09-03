@@ -14,4 +14,6 @@ Tujuan dari praktikum ini adalah untuk mempelajari dan memahami proses instalasi
 - koneksi internet (opsional,untuk update dan instalasi tambahan)
 ### Langkah-langkah
 
+
 ### Kesimpulan
+ Pada akhir praktikum ini, peserta diharapkan memahami proses dasar instalasi Linux, termasuk pemilihan dan konfigurasi partisi, pengaturan sistem, dan verifikasi instalasi. Praktikum ini memberikan keterampilan dasar yang diperlukan untuk menggunakan dan mengelola sistem Linux secara efektif.
